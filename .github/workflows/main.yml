@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: Hello world action step
         id: hello
-        uses: Darika-git/hello-world-javascript-action@main
+        uses: Darika-git/hello-world-action-test@main
         with:
           who-to-greet: Darika
 
